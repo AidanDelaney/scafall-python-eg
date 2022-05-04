@@ -1,4 +1,9 @@
 [[prompt]]
+name = "ProjectName"
+prompt = "Please input a project name"
+default = "pyexample"
+
+[[prompt]]
 name = "PythonVersion"
 prompt = "Which Python version to use"
 required = true
